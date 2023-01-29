@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "2af043f217d0ebdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49649d9701b6e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cdbda1700805f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Sessions/2023-01-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce29d15f18c0b178",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f49e872f238e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22377f9126ff703",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dddd26555e7c5c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcaaa5426cbcfce5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5679e1b19d02c0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15030aa181db2e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "336186bf78a73a6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game Sessions/2023-01-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a9020a534d2dc6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game Sessions/2023-01-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9200e4c5065d21b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60f393f49c2c4308",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Sessions/2023-01-28.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8cdbda1700805f76",
+  "lastOpenFiles": [
+    "Templates/PlayerCharacter.md",
+    "Characters/Players/Cl4nk.md",
+    "Untitled.canvas",
+    "Game Sessions/2023-01-28.md",
+    "Templates/SessionLog.md",
+    "Characters/Players/Arc.md",
+    "Characters/Players/Zuriel.md",
+    "Characters/Players/Oscar Freeloader.md",
+    "Characters/Players/Iris.md",
+    "Characters/Players/D'kar.md"
+  ]
+}
