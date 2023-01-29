@@ -6,11 +6,11 @@ tags:: [[+Session Log]]
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
 ---
-# 📝 Players
+# 🥷 Players
 - 
 
 ---
-# 📝 Previously On
+# 🧭 Previously On
 - 
 
 ---
@@ -18,5 +18,5 @@ tags:: [[+Session Log]]
 - 
 
 ---
-# ☑️ Follow Up
+# ☑️ Quests
 - [ ] ...
